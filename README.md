@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working as a Machine Learning Research Engineer at Institute of High Performance Computing (IHPC), Agency for Science, Technology And Research (A*STAR), Singapore. I am completing my one-year research attachment under the National Science Scholarship (PhD).
 
-🌱 I’m currently working on projects involving Physics-Based Machine Learning in terms of its applications and optimsation.
+🌱 I’m currently working on projects involving Physics-Based Machine Learning in terms of its applications and optimisation.
 
 ⚡ Outside of work, I also enjoy travelling and playing sports (Football, Pool, Table Tennis, Tennis)
 
