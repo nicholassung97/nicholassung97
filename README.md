@@ -3,7 +3,7 @@
 
 🌱 I’m currently working on projects involving Physics-Based Machine Learning in terms of its applications and optimisation.
 
-⚡ Outside of work, I also enjoy travelling and playing sports (Football, Pool, Table Tennis, Tennis)
+⚡ Outside of work, I also enjoy travelling and playing sports (Football, Pool, Table Tennis, Tennis).
 
 
 <!--
